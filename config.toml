@@ -1,7 +1,8 @@
 languageCode = "en-us"
 title = "Who am I?"
-baseurl = "http://example.org/"
+baseurl = "https://uchimanajet7.github.io/whoami/"
 theme = "prologue"
+canonifyurls = true
 
 [params]
   name = "Manabu Uchida"
