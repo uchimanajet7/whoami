@@ -1,0 +1,57 @@
+languageCode = "en-us"
+title = "Who am I?"
+baseurl = "http://example.org/"
+theme = "prologue"
+
+[params]
+  name = "Manabu Uchida"
+  account = "@uchimanajet7"
+  job = "Software Developer"
+  description = "AWS, golang, Python, User Community"
+  copyright = "uchimanajet7"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/uchimanajet7"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook-official"
+  link = "https://www.facebook.com/uchimanajet7"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin-square"
+  link = "https://www.linkedin.com/in/uchimanajet7"
+
+[[params.social]]
+  medium = "Blog"
+  icon = "dribbble"
+  link = "http://uchimanajet7.hatenablog.com/"
+
+[[params.social]]
+  medium = "GitHub"
+  icon = "github"
+  link = "https://github.com/uchimanajet7"
+
+[[params.social]]
+  medium = "Google+"
+  icon = "google-plus-official"
+  link = "https://plus.google.com/111917585746973646046"
+
+[[params.social]]
+  medium = "Speaker Deck"
+  icon = "github-alt"
+  link = "https://speakerdeck.com/uchimanajet7"
+
+[[params.social]]
+  medium = "slideship"
+  icon = "ship"
+  link = "https://slideship.com/users/@uchimanajet7/"
+
+[[params.social]]
+  medium = "SlideShare"
+  icon = "slideshare"
+  link = "https://www.slideshare.net/uchimanajet7"
+
