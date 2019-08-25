@@ -37,9 +37,9 @@ canonifyurls = true
   link = "https://github.com/uchimanajet7"
 
 [[params.social]]
-  medium = "Google+"
-  icon = "google-plus-official"
-  link = "https://plus.google.com/111917585746973646046"
+  medium = "Medium"
+  icon = "medium"
+  link = "https://medium.com/@uchimanajet7"
 
 [[params.social]]
   medium = "Speaker Deck"
