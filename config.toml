@@ -3,6 +3,7 @@ title = "Who am I?"
 baseurl = "https://uchimanajet7.github.io/whoami/"
 theme = "prologue"
 canonifyurls = true
+publishDir = "docs"
 
 [params]
   name = "Manabu Uchida"
